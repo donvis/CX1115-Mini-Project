@@ -4,7 +4,9 @@ See below for ppt slides:
 https://docs.google.com/presentation/d/1k0AFkcCtXRmJ72zxghcifhPT1k6tG11QaoDzX9l2aiM/edit#slide=id.gd2ef94f1d7_4_94
 
 Use Font Size 24 -> Calibri for Header type,
+
 Use Font Size 21 -> Calibri for Sub Header
+
 Use appropriate coding example or graphics from the coding file if needed, else don't put them.
 
 # Timeline from 20th to project submission deadline 23rd Apr 2359HRs:
