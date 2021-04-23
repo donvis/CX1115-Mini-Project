@@ -14,3 +14,5 @@ Use appropriate coding example or graphics from the coding file if needed, else 
 * 22nd Apr (Thu): 1107 Test in da Morning -> Remaining of the day: Completion of problem + Conclusion (Overdue by a bit)
 * 23rd Apr (Fri): Completion of Coding + PPT Slide, 
                  QA on the Problem + Recording -> To be completed by Kelvin 
+                 
+* Removed Older version that are deemed not needed            
